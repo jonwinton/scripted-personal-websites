@@ -2,43 +2,10 @@
 
 (function($) {
 
-  var $menuBtn = $('.menuBtn');
-  var $menu = $('.menuContainer');
+  // 1. Include jQuery in your project
 
-  $menuBtn.on('click', function() {
-    $menu.fadeToggle(300);
-  });
+  // 2. Select the elements you'll need.... $('...')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  // 3. Write some JavaScript
 
 })(window.jQuery);
