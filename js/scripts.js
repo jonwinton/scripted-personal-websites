@@ -6,6 +6,6 @@
 
   // 2. Select the elements you'll need.... $('...')
 
-  // 3. Write some JavaScript
+  // 3. Write an event listener and event handler for a `click` on the menu button
 
 })(window.jQuery);
